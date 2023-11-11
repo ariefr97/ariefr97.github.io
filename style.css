@@ -1,0 +1,10 @@
+.jumbotron {
+  padding-top: 2rem;
+  background-color: #e2edff;
+}
+.back-video {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  z-index: -1;
+}
